@@ -7,11 +7,12 @@ case "resta":
 echo "Resultado: " . ($num1 - $num2);
 break;
 
-  case "multiplicacion":
+case "multiplicacion":
 echo "Resultado: " . ($num1 * $num2);
-DAW | Despliegue de aplicaciones web
+
 break;
 case "division":
 echo "Resultado: " . ($num1 / $num2);
 break;
+
 }?>
