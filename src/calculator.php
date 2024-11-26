@@ -6,13 +6,10 @@ break;
 case "resta":
 echo "Resultado: " . ($num1 - $num2);
 break;
-
 case "multiplicacion":
 echo "Resultado: " . ($num1 * $num2);
-
 break;
 case "division":
 echo "Resultado: " . ($num1 / $num2);
 break;
-
 }?>
